@@ -1,5 +1,5 @@
 /*
- *   작성자 : 송재훈
+ *   작성자 : Song
  *   프로젝트 : chapter 2
  *   파일 : JavaProgramming.HelloStatement.java
  *   내용 : 문장과 주석을 살펴보는 프로그램

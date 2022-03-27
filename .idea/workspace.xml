@@ -9,6 +9,8 @@
       <change afterPath="$PROJECT_DIR$/JavaProgramming.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/ch2/src/HelloDefaultValue.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/ch2/src/HelloInput.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ch2/ch2.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/ch2/src/HelloStatement.java" beforeDir="false" afterPath="$PROJECT_DIR$/ch2/src/HelloStatement.java" afterDir="false" />
     </list>
@@ -26,6 +28,14 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="5453d8bb-09b6-495d-aec8-147e18e0dd92" />
+        <option name="url" value="https://github.com/songmoro/JavaProgramming.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -46,7 +56,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="애플리케이션.HelloProgramming">
+  <component name="RunManager" selected="애플리케이션.HelloDefaultValue">
     <configuration name="HelloDefaultValue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="JavaProgramming.HelloDefaultValue" />
       <module name="JavaProgramming" />
@@ -101,9 +111,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="애플리케이션.HelloDefaultValue" />
         <item itemvalue="애플리케이션.HelloProgramming" />
         <item itemvalue="애플리케이션.HelloInput" />
-        <item itemvalue="애플리케이션.HelloDefaultValue" />
         <item itemvalue="애플리케이션.HelloLiterals" />
       </list>
     </recent_temporary>
@@ -116,7 +126,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1648397090344</updated>
-      <workItem from="1648397091943" duration="919000" />
+      <workItem from="1648397091943" duration="1662000" />
+      <workItem from="1648398770046" duration="169000" />
     </task>
     <servers />
   </component>
