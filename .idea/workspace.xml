@@ -2,17 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7878b17f-1936-4ac0-a3d9-ec1cc1a42967" name="변경" comment=".">
-      <change afterPath="$PROJECT_DIR$/ch2/src/CharTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch2/src/HelloAndroid.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch2/src/HelloJava.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch2/src/HelloOutput.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch2/src/NumberTable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch2/src/PersonInfo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch2/src/ToCode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch2/src/ToDigit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch2/src/ToPound.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch2/src/ToYard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch2/src/TypeInt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch3/src/BasicOP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch3/src/CondOP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch3/src/IncDecOP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch3/src/LogicalOP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch3/src/RelationalOP.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/JavaProgramming.iml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaProgramming.iml" afterDir="false" />
     </list>
@@ -58,8 +52,8 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/ch3/src" />
     <property name="project.structure.last.edited" value="모듈" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="settings.editor.selected.configurable" value="editing.templates" />
   </component>
@@ -67,11 +61,67 @@
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/ch3/src" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/ch3/JavaProgramming" />
+      <recent name="$PROJECT_DIR$/ch3" />
+    </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="JavaProgramming" />
     </key>
   </component>
-  <component name="RunManager" selected="애플리케이션.NumberTable">
+  <component name="RunManager" selected="애플리케이션.LogicalOP">
+    <configuration name="BasicOP" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaProgramming.BasicOP" />
+      <module name="JavaProgramming" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JavaProgramming.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CondOP" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaProgramming.CondOP" />
+      <module name="JavaProgramming" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JavaProgramming.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IncDecOP" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaProgramming.IncDecOP" />
+      <module name="JavaProgramming" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JavaProgramming.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LogicalOP" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaProgramming.LogicalOP" />
+      <module name="JavaProgramming" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JavaProgramming.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="NumberTable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="JavaProgramming.NumberTable" />
       <module name="JavaProgramming" />
@@ -85,47 +135,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PersonInfo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaProgramming.PersonInfo" />
-      <module name="JavaProgramming" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="JavaProgramming.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ToCode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaProgramming.ToCode" />
-      <module name="JavaProgramming" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="JavaProgramming.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ToDigit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaProgramming.ToDigit" />
-      <module name="JavaProgramming" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="JavaProgramming.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ToPound" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaProgramming.ToPound" />
+    <configuration name="RelationalOP" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaProgramming.RelationalOP" />
       <module name="JavaProgramming" />
       <extension name="coverage">
         <pattern>
@@ -139,11 +150,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="애플리케이션.LogicalOP" />
+        <item itemvalue="애플리케이션.RelationalOP" />
+        <item itemvalue="애플리케이션.CondOP" />
+        <item itemvalue="애플리케이션.IncDecOP" />
         <item itemvalue="애플리케이션.NumberTable" />
-        <item itemvalue="애플리케이션.ToDigit" />
-        <item itemvalue="애플리케이션.ToPound" />
-        <item itemvalue="애플리케이션.PersonInfo" />
-        <item itemvalue="애플리케이션.ToCode" />
       </list>
     </recent_temporary>
   </component>
@@ -160,7 +171,8 @@
       <workItem from="1648398962184" duration="1692000" />
       <workItem from="1648481641920" duration="500000" />
       <workItem from="1648482150787" duration="361000" />
-      <workItem from="1648482589933" duration="2048000" />
+      <workItem from="1648482589933" duration="2208000" />
+      <workItem from="1648545253580" duration="2905000" />
     </task>
     <task id="LOCAL-00001" summary=".">
       <created>1648400528610</created>
@@ -169,7 +181,14 @@
       <option name="project" value="LOCAL" />
       <updated>1648400528610</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary=".">
+      <created>1648484795893</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1648484795893</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
